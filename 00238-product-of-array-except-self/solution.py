@@ -1,7 +1,7 @@
 from typing import List
 
 class Solution:
-    def productExceptSelf(self, nums: List[int]) -> None:
+    def productExceptSelf(self, nums: List[int]) -> List[int]:
         # Create arrays filled with 0's for the left product, the right
         # product, and the result
         left = [0] * len(nums)
