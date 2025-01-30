@@ -4,10 +4,11 @@
 <small>*(Briefly describe the problem, or copy the description from LeetCode in your own words.)*</small>
 
 ## Approach
-1. **Idea**  
-   <small>*(Explain the main idea or algorithm you used to solve the problem.)*</small>
-2. **Steps/Pseudocode**  
-   <small>*(Provide a step-by-step outline or pseudocode of your approach.)*</small>
+### Idea
+<small>*(Explain the main idea or algorithm you used to solve the problem.)*</small>
+
+### Steps/Pseudocode
+<small>*(Provide a step-by-step outline or pseudocode of your approach.)*</small>
 
 ## Complexity Analysis
 - **Time Complexity**:  
